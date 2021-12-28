@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "testmod:first_block",
+    "count": 1
+  },
+  "pattern": [
+    "B A",
+    " AA",
+    "A  "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}
